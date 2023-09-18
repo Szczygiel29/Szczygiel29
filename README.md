@@ -3,6 +3,8 @@
 I'm Jakub Szczygieł, a Full-Stack Developer with a passion for building innovative software solutions. With a strong foundation in both front-end and back-end development, 
 I'm committed to delivering high-quality products in a dynamic team environment.
 
+![cv](https://github.com/Szczygiel29/Szczygiel29/assets/116550165/01882b13-2504-448e-9356-8c999839c8ba)
+
 ## My Skills
 
 - 💻 **Programming Languages**: Java, JavaScript
@@ -29,3 +31,5 @@ Feel free to reach out to me through [LinkedIn](https://www.linkedin.com/in/jaku
 
 
 ![Zrzut ekranu 2023-09-18 093124](https://github.com/Szczygiel29/Szczygiel29/assets/116550165/98365f3b-6756-49e8-8a0d-fc109669e587)
+
+
