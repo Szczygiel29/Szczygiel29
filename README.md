@@ -13,7 +13,7 @@ I'm committed to delivering high-quality products in a dynamic team environment.
 - 🧰 **Tools**: Maven, JUnit, Git
 - 🌐 **Front-End**: HTML, CSS, SCSS, React
 - 🔄 **Version Control**: Git, GitHub, Bitbucket
-- 📊 **Project Management**: Atlassian, Trello, Jira
+- 📊 **Project Management**: Atlassian, Confluence, Trello, Jira
 - 📐 **Design Patterns**
 - 🚀 **API Development**: REST API
 - 🏗️ **ORM**: JPA/Hibernate
