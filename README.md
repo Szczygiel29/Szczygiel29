@@ -7,7 +7,7 @@ I'm committed to delivering high-quality products in a dynamic team environment.
 
 ## My Skills
 
-- 💻 **Programming Languages**: Java, JavaScript
+- 💻 **Programming Languages**: Java, JavaScript, Pytone
 - 🛠️ **Frameworks**: Spring Framework, Apache Kafka, Express
 - 🗄️ **Databases**: PostgreSQL, MySQL, Redis, MongoDB
 - 🧰 **Tools**: Maven, JUnit, Git
