@@ -29,6 +29,9 @@ I thrive in dynamic, collaborative environments and am always eager to take on n
 
 Feel free to reach out to me through [LinkedIn](https://www.linkedin.com/in/jakub-szczygie%C5%82-42868722b/) for potential collaborations or discussions on exciting projects. Let's connect and build amazing things together!
 
+Certainly! If you want to encourage more activity, you can check my second account on GitHub: [GitHub Secound Account](https://github.com/Szczygiel99)
+
+![Zrzut ekranu 2024-01-15 113729](https://github.com/Szczygiel29/Szczygiel29/assets/116550165/b02fa127-30b7-4f2c-b84a-0a1dc46d282f)
 
 ![Zrzut ekranu 2023-09-18 093124](https://github.com/Szczygiel29/Szczygiel29/assets/116550165/98365f3b-6756-49e8-8a0d-fc109669e587)
 
