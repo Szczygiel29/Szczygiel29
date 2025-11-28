@@ -3,6 +3,8 @@
 I'm Jakub Szczygieł, a Full-Stack Developer with a passion for building innovative software solutions. With a strong foundation in both front-end and back-end development, 
 I'm committed to delivering high-quality products in a dynamic team environment.
 
+As the creator and founder of StoryCraftAI — an AI-powered platform that generates personalized children’s stories based on a single uploaded photo. I focus on combining engineering, creativity, and product thinking to build seamless digital experiences.
+
 📘 StoryCraftAI — Personalized AI-Generated Children's Stories
 
 A production-ready web application that allows parents to create fully personalized children’s stories using AI. Users upload a photo, choose a theme, and the system automatically generates illustrations, narrative text, and a downloadable PDF. Built with React, Vite, AWS, Java, Spring Boot, Stripe, and OpenAI APIs.
